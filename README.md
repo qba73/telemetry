@@ -1,2 +1,3 @@
 # telemetry
-Go package that illustrates how to use Kubernetes fake objects in tests.
+
+`telemetry` is a Go package that illustrates how to use Kubernetes fake objects in tests.
