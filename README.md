@@ -4,7 +4,7 @@
 
 ## Create Development and Test Environment
 
-Create Kind cluster:
+Create multi-node [Kind](https://kind.sigs.k8s.io) cluster:
 
 ```shell
 make create-cluster
